@@ -1,0 +1,23 @@
+{
+  "name": "oop-team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NKR-28/OOP-Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "Nita Roberts",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.5.1"
+  }
+}
