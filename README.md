@@ -19,7 +19,7 @@ Node.js
 NPM
 Jest Tests
 
-Demo:https://drive.google.com/file/d/1ILzjyLcQPIl64AU8VbdcKtUV4HrxU77M/view
+Demo:https://watch.screencastify.com/v/kn5G99i6oUhuY4DhLlD3
 
 GitHub: https://nkr-28.github.io/OOP-Team-Profile-Generator/ 
 
