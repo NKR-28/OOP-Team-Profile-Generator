@@ -24,3 +24,5 @@ Demo:https://watch.screencastify.com/v/kn5G99i6oUhuY4DhLlD3
 GitHub: https://nkr-28.github.io/OOP-Team-Profile-Generator/ 
 
 <img width="1338" alt="Screen Shot 2022-04-25 at 11 36 57 AM" src="https://user-images.githubusercontent.com/91577650/172962745-9ac71bbb-ecaa-4be6-982d-1c498b196ecb.png">
+
+<img width="983" alt="Screen Shot 2022-06-09 at 16 45 06" src="https://user-images.githubusercontent.com/91577650/172962950-f7d3b09a-1336-41af-af8b-e8c40f656d97.png">
