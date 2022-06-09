@@ -25,4 +25,3 @@ GitHub: https://nkr-28.github.io/OOP-Team-Profile-Generator/
 
 <img width="1338" alt="Screen Shot 2022-04-25 at 11 36 57 AM" src="https://user-images.githubusercontent.com/91577650/172963202-7673a2ec-da5f-41bc-8263-6210f59136ae.png">
 
-<img width="1032" alt="Screen Shot 2022-06-09 at 16 55 20" src="https://user-images.githubusercontent.com/91577650/172963852-c0e58c58-3e22-4549-b209-1d3054928699.png">
